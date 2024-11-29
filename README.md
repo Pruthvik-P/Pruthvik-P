@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>- 🌱 I’m currently learning **WEB development**<br><br>- 👨‍💻 All of my projects are available at [https://github.com/Pruthvik-P?tab=repositories](https://github.com/Pruthvik-P?tab=repositories)<br><br>- 💬 Ask me about **machine learning, Web development**<br><br>- 📫 How to reach me **pruthvik6666@gmail.com**<br>
+<br>- 🌱 I’m currently learning **Next JS**<br><br>- 👨‍💻 All of my projects are available at [https://github.com/Pruthvik-P?tab=repositories](https://github.com/Pruthvik-P?tab=repositories)<br><br>- 💬 Ask me about **machine learning, Web development**<br><br>- 📫 How to reach me **pruthvik6666@gmail.com**<br>
 
 
 ## 🌐 Socials:
