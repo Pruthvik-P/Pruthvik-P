@@ -1,4 +1,4 @@
-# 💫 About Me:
+[# 💫 About Me:
 <br>- 🌱 I’m currently learning **Next JS**<br><br>- 👨‍💻 All of my projects are available at [https://github.com/Pruthvik-P?tab=repositories](https://github.com/Pruthvik-P?tab=repositories)<br><br>- 💬 Ask me about **machine learning, Web development**<br><br>- 📫 How to reach me **pruthvik6666@gmail.com**<br>
 
 
@@ -20,3 +20,4 @@
 [![](https://visitcount.itsvg.in/api?id=Pruthvik-P&icon=1&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+](https://www.linkedin.com/in/pruthvik-p-b68388216/)
